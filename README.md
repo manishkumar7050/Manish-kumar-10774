@@ -1,6 +1,6 @@
 # Manish-kumar-10774
 Mini project C
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/61a3d13f-1d63-40c2-8af9-80779a34adc2" />
 
 Project Title
 
